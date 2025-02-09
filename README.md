@@ -4,6 +4,7 @@
 ## Project Description
 
 A simple Terminal Emulator which demonstrates the usecase of system calls.
+
 Concepts covered :
 - fork
 - exec (execvp)
