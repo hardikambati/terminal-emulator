@@ -16,6 +16,8 @@ Concepts covered :
 ```
 # compile the code
 gcc terminal.c
+```
+```
 # run the code
 ./a.out
 ```
